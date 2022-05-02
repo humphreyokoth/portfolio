@@ -228,9 +228,12 @@ a {
 }
 
 .text-light-muted {
-  color: #8492a6 !important;
+  color: #000000 !important;
 }
+.text-white-muted{
+  color: #ffffff !important;
 
+}
 .bg-light-muted {
   background-color: #8492a6 !important;
 }
@@ -978,6 +981,7 @@ button:not(:disabled) {
 .py--50 {
   padding-top: 50px;
   padding-bottom: 50px;
+  color: #ffffff;
 }
 
 .alert.alert-pills {
